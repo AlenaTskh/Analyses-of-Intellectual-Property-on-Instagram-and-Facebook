@@ -17,4 +17,5 @@
 
   The data shows that from 2017 to 2020, the vast majority of content the operation team of FB took action on for potential counterfeit or copyright-related violations was removed proactively.
 
+## My goal 
   I explore a real data set "IP Protection on Facebook and Instagram". I begin the notebook with some exploratory data analysis and then use the data to build a prediction of counterfeit for next years.
