@@ -4,7 +4,7 @@
 
   This report details how many reports of IP violations is received and how much content is taken down on as a result. The report also includes how much content FB tooks down proactively for IP violations.
 
-# H2 report
+## H2 report
   Facebook's IP protection measures begin with the Terms of Service and our Community Standards, which prohibit people from posting content that infringes others' IP rights. Similar provisions are included in Instagram's Terms of Use and Community Guidelines. Under our policies, rights holders can submit IP reports identifying content on Facebook and Instagram that they believe infringes their rights. If a report is complete and valid, BF will act promptly to remove the reported content.
 
   This report includes the following IP reports:
