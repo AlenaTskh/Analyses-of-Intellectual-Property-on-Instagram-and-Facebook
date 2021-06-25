@@ -2,7 +2,7 @@
 
   Facewbook is committed to helping people and organizations protect their IP rights and do not allow people to post content that violates someone else’s IP rights.
 
-  The data that I used (it can be founf [here] (https://transparency.fb.com/data/intellectual-property/protecting-intellectual-property-rights) shows that from 2017 to 2020, the vast majority of content the operation team of FB took action on for potential counterfeit or copyright-related violations was removed proactively. The data contains how many reports of IP violations is received and how much content is taken down on as a result. The report also includes how much content FB tooks down proactively for IP violations.
+  The data that I used (which it can be found [here] (https://transparency.fb.com/data/intellectual-property/protecting-intellectual-property-rights/) shows that from 2017 to 2020, the vast majority of content the operation team of FB took action on for potential counterfeit or copyright-related violations was removed proactively. The data contains how many reports of IP violations is received and how much content is taken down on as a result. The report also includes how much content FB tooks down proactively for IP violations.
 
 ## H reports
   Facebook's IP protection measures begin with the Terms of Service and our Community Standards, which prohibit people from posting content that infringes others' IP rights. Similar provisions are included in Instagram's Terms of Use and Community Guidelines. Under our policies, rights holders can submit IP reports identifying content on Facebook and Instagram that they believe infringes their rights. If a report is complete and valid, BF will act promptly to remove the reported content.
