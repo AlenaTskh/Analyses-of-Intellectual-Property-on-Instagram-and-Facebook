@@ -1,4 +1,4 @@
-# Analyses-of-Intellectual-Property-on-Instagram-and-Facebook
+# BI Marathon 2021
 
   Facewbook is committed to helping people and organizations protect their IP rights and do not allow people to post content that violates someone else’s IP rights.
 
