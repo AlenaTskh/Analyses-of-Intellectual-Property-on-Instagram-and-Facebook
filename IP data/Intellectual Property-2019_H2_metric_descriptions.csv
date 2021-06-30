@@ -1,7 +1,0 @@
-Metric,Description
-reports,"These numbers represent the total volume of IP reports submitted through our online reporting forms on Facebook and Instagram.
-They exclude reports submitted through other channels (including reports emailed to ip@fb.com and ip@instagram.com or sent by other means such as fax or mail), which comprise a small fraction of total reports submitted. We've also excluded duplicate reports and other non-IP reports that were filed through the IP reporting forms."
-removal_rate,"This figure constitutes the volume of content removed in response to an IP report relative to the volume of content reported, reflected as a percentage.
-In prior transparency reports, the Removal Rate constituted the percentage of total IP reports that resulted in some or all reported content being removed. Beginning at the July 2019 reporting period, we have adjusted the way we calculate Removal Rate to reflect the percentage of reported content removed, rather than the percentage of reports resulting in removals. Because a single IP report can identify multiple pieces of content, this figure offers a more complete picture of the total content removed from the platform based on an IP report."
-content_removed,"These numbers reflect the total amount of content that was removed based on an IP report.
-On Facebook, this includes everything from individual posts, photos, videos or advertisements to profiles, Pages, groups and events, while on Instagram this could include photos, videos, advertisements or accounts."
