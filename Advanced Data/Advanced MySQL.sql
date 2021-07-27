@@ -135,7 +135,7 @@ Where product_id = 1
 -- h. EXCEPT vs NOT IN
 
 Select fact_reports_id, product_id, date, copyright_r, trademark_r, counterfeit_r FROM fact_reports
-Except
+NOT IN  
 Select fact_content_removerd_id, product_id, date, copyright_cr, trademark_cr, counterfeit_cr FROM fact_content_removerd
 ;
 
@@ -152,17 +152,30 @@ FROM fact_reports
 Where product_id = 2
 ;
 
-/* Find all dates with higher copyright number compared to its previous dates */
+/* Find all fact_reports ids with higher copyright number compared to its previous dates for Facebook */
+
+select * FROM fact_reports;
+
+ALTER TABLE fact_reports CHANGE `date` `date` DATE;
+
+with cte_1 as (
+		Select fact_reports_id
+				, date
+                , copyright_r
+                , product_id
+		From fact_reports
+        Where product_id = 1       
+)
 select 
 		a.fact_reports_id
-FROM fact_reports a, 
-		fact_reports b
+FROM cte_1 a, 
+		cte_1 b
 Where a.copyright_r > b.copyright_r 
-		and datediff(a.date_format(str_to_date(date, '%Y-%m-%d'), '%d-%m-%y'), b.date_format(str_to_date(date, '%Y-%m-%d'), '%d-%m-%y')) = 12 
+		and datediff(a.date, b.date) = 30 
 ;
 
 select 
-		date_trunc('MONTH', str_to_date(date, '%Y-%m-%d'), '%d-%m-%y')
+		DATE_TRUNC('YEAR', date) as year_
 FROM fact_reports;
 
 
