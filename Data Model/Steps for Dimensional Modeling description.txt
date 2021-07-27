@@ -1,0 +1,30 @@
+Steps for Dimensional Modeling description
+
+Business values: Intellectual Property on Facebook and Instagramm
+Grain: Monthly count of Content Removes, Reports, Removal Rate of Copyright, Trademark and Counterfeit
+______________________________________________________________
+
+Dimentions:
+1) Product (Product) 
+______________________________________________________________
+
+Fact_Content_Removed:
+FK_1_Product_Id
+Date
+Copyright_cr
+Trademark_cr
+Counterfeit_cr
+
+Fact_Reports:
+FK_1_Product
+Date
+Copyright_r
+Trademark_r
+Counterfeit_r
+
+Fact_Removal_Rate:
+FK_1_Product
+Date
+Copyright_rr
+Trademark_rr
+Counterfeit_rr
