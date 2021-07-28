@@ -16,4 +16,4 @@
   A counterfeit good is a knock-off or replica version of another company's product. It usually copies the trademarked name, logo, and/or distinctive features of that other company's product to imitate a genuine product. Manufacture, promotion, or sale of counterfeits is a type of trademark infringement.
 
 ## My goal 
-  I explore a real data set "IP Protection on Facebook and Instagram". I begin the notebook with some exploratory data analysis and use the data to build a prediction of infringements for next years. I am going to include here time series ananlysis, since it is an important factor to consider in a model when I wish to predict infringements and its trends, seasonality, stationary.
+  I explored a real data set "IP Protection on Facebook and Instagram". I begin the notebook with some exploratory data analysis and use the data to build a prediction of infringements for next years. I am going to include here time series ananlysis, since it is an important factor to consider in a model when I wish to predict infringements and its trends, seasonality, stationary.
